@@ -20,9 +20,9 @@
   "author": "The Wit Team <help@wit.ai>",
   "dependencies": {
     "body-parser": "^1.18.2",
+    "cross-fetch": "^3.1.5",
     "express": "^4.16.2",
     "https-proxy-agent": "^5.0.0",
-    "isomorphic-fetch": "^2.2.1",
     "lodash": "^4.17.14",
     "mic": "^2.1.2",
     "uuid": "^9.0.0"
@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^3.5.3",
+    "mocha": "^10.2.0",
     "sinon": "^1.17.6"
   }
 }
